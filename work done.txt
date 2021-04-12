@@ -1,0 +1,5 @@
+THis work was done by 
+NOUKO JAYSON WHITE    ET20200841
+EFOMBAGNE EMOK GIOVANI SARIEL    ET20200974
+Here there is the file known as sudoku itself containing sudokugame were you can find our sudoku assignment.
+There is also the file known as  calcu for the quadratic solver.
